@@ -1,0 +1,1 @@
+A small project to improve my skills in design and webdev. I got the main concept from hackclub's JavaScript Clock workshop but I wanted to learn from it so I made the designs myself and added a few extra features. Also shout out to the internet that's the band that made ego death :) (you should def listen to them if you like good music).
