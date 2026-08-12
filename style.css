@@ -1,0 +1,47 @@
+body {
+  background-color: #9cff88;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.clock {
+  width: 24.2rem;
+  height: 24rem;
+  background-image: url("bitmap.png");
+  position: relative;
+}
+
+
+.hand{
+  background-image: url("recordheadevenbetter.png");
+  background-size: cover;
+  height: 175px;
+  width: 50%;
+  position: absolute;
+  top: 10%;
+  transform-origin: 100%;
+  transition: all 0.05s;
+  transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+
+
+}
+
+
+.hour-hand {
+ width: 15%;
+ right: 45%;
+}
+
+.second-hand {
+ width: 15%;
+ right: 45%;
+}
+
+.min-hand {
+ width: 15%;
+ right: 45%;
+}
