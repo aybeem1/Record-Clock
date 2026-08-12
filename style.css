@@ -11,13 +11,13 @@ body {
 .clock {
   width: 24.2rem;
   height: 24rem;
-  background-image: url("bitmap.png");
+  background-image: url("Assets/bitmap.png");
   position: relative;
 }
 
 
 .hand{
-  background-image: url("recordheadevenbetter.png");
+  background-image: url("Assets/recordheadevenbetter.png");
   background-size: cover;
   height: 175px;
   width: 50%;
